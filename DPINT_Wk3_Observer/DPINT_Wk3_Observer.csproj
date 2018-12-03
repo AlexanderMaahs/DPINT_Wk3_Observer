@@ -80,6 +80,7 @@
     </ApplicationDefinition>
     <Compile Include="Model\Aankomsthal.cs" />
     <Compile Include="Model\Baggageband.cs" />
+    <Compile Include="Model\Observable.cs" />
     <Compile Include="Model\Vlucht.cs" />
     <Compile Include="ViewModel\BaggagebandViewModel.cs" />
     <Compile Include="ViewModel\MainViewModel.cs" />
